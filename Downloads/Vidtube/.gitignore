@@ -1,0 +1,20 @@
+Application Data/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+Cookies/
+AppData/
+
+
+
+./vscode
+/node_modules
+public
+*.env
+.env
+.env.*
